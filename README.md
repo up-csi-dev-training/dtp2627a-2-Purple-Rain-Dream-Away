@@ -1,3 +1,26 @@
+# Featured Song
+<p align="center">
+  <img src="src/img/sky_banner.jpg" width="900"/>
+</p>   
+<table>
+  <tr>
+    <td width="300">
+      <img src="src/img/album_cover.png" width="300" alt="Fly Me To The Moon - Frank Sinatra">
+    </td>
+    <td valign="middle">
+      <h1>Fly Me To The Moon</h1>
+      <h3>Frank Sinatra · 1964 · 2015</h3>
+        <a href="https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa?si=316d8fe964fd43ca">
+            <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify">
+        </a>
+        <a href="https://music.youtube.com/watch?v=z0_2mT3HdJg">
+            <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="Listen on YouTube Music">
+        </a>
+    </td>
+  </tr>
+</table>
+
+
 # DTP Assignment 2
 
 This assignment is all about GitHub. It is divided into two parts.
